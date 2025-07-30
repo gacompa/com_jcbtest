@@ -8,7 +8,7 @@
     "guid": "302f31d8-65b3-4c0a-97c3-033176860cfc",
     "addplaceholders": {
         "addplaceholders0": {
-            "target": "com_atutti",
+            "target": "com_jcbtest",
             "value": "default text"
         }
     },
