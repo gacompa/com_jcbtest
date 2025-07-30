@@ -1,0 +1,21 @@
+{
+    "system_name": "com_jcbtest",
+    "organisation": "gacompa",
+    "repository": "com_jcbtest",
+    "target": 6,
+    "type": 2,
+    "base": "https:\/\/github.com",
+    "guid": "302f31d8-65b3-4c0a-97c3-033176860cfc",
+    "addplaceholders": {
+        "addplaceholders0": {
+            "target": "com_atutti",
+            "value": "default text"
+        }
+    },
+    "access_repo": 1,
+    "write_branch": "main",
+    "read_branch": "main",
+    "author_email": "",
+    "author_name": "",
+    "username": "gacompa"
+}
