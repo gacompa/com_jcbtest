@@ -21,7 +21,7 @@
     "license": "GNU\/GPL Version 2 or later - http:\/\/www.gnu.org\/licenses\/gpl-2.0.html",
     "bom": "default.txt",
     "php_site_event": "",
-    "image": "",
+    "image": "images\/banners\/white.png#joomlaImage:\/\/local-images\/banners\/white.png?width=234&height=74",
     "css_admin": "",
     "copyright": "Copyright (C) 2015. All Rights Reserved",
     "php_postflight_update": "",
@@ -93,6 +93,14 @@
             "entity": "component_admin_views",
             "table": "#__componentbuilder_component_admin_views",
             "direction": "in"
+        },
+        {
+            "key": "8b8cc404-e5d9-53e7-a7e1-a4068ce668ae.png",
+            "pointer": "8b8cc404-e5d9-53e7-a7e1-a4068ce668ae--png",
+            "value": "images\/banners\/white.png",
+            "entity": "file",
+            "table": "file_system",
+            "target": "images"
         }
     ]
 }
