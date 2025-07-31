@@ -45,7 +45,10 @@ This ensures maintainability while still allowing total customization per projec
 ### Index of Admin Views
 
 
+ - **Locations** | [Details](src/admin_view/eafd26f7-b13c-4c36-b8a3-ae7d71febb24) | [Settings](src/admin_view/eafd26f7-b13c-4c36-b8a3-ae7d71febb24/item.json) | List of the locations in the area
+ - **Reservations** | [Details](src/admin_view/e42d4c2d-ccd3-4291-a886-6f958be29417) | [Settings](src/admin_view/e42d4c2d-ccd3-4291-a886-6f958be29417/item.json) | Reservation
  - **jcbtest** | [Details](src/admin_view/ad08e632-2bb2-43c9-afe4-673f84f437cc) | [Settings](src/admin_view/ad08e632-2bb2-43c9-afe4-673f84f437cc/item.json) | test JCB
+ - **test** | [Details](src/admin_view/6bf8c6a1-36f3-4c13-b04d-89eefe322d0f) | [Settings](src/admin_view/6bf8c6a1-36f3-4c13-b04d-89eefe322d0f/item.json) | test
 
 ### All used in [Joomla Component Builder](https://www.joomlacomponentbuilder.com) - [Source](https://git.vdm.dev/joomla/Component-Builder) - [Mirror](https://github.com/vdm-io/Joomla-Component-Builder) - [Download](https://git.vdm.dev/joomla/pkg-component-builder/releases)
 
