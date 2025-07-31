@@ -57,7 +57,15 @@ This preserves version control while allowing your own field improvements to liv
 ### Index of Fields
 
 
+ - **1 stop** | [Details](src/field/934eb37b-0fb1-4fed-b3ec-969cd0b364ee) | [Settings](src/field/934eb37b-0fb1-4fed-b3ec-969cd0b364ee/item.json)
+ - **2 stop** | [Details](src/field/4a87c014-04ca-4986-8aea-43ed407ff07a) | [Settings](src/field/4a87c014-04ca-4986-8aea-43ed407ff07a/item.json)
+ - **3 stop** | [Details](src/field/f68fdba1-62f1-4396-b915-cacc79206db5) | [Settings](src/field/f68fdba1-62f1-4396-b915-cacc79206db5/item.json)
+ - **Date (required)** | [Details](src/field/03995043-13fb-4ec7-bc66-e13434425a06) | [Settings](src/field/03995043-13fb-4ec7-bc66-e13434425a06/item.json)
  - **Group** | [Details](src/field/0d4a5caa-2199-4fb1-b07f-bd8071d71dbe) | [Settings](src/field/0d4a5caa-2199-4fb1-b07f-bd8071d71dbe/item.json)
+ - **Latitude (decimal)** | [Details](src/field/b83771c3-ffd1-4827-a41d-a633873517c7) | [Settings](src/field/b83771c3-ffd1-4827-a41d-a633873517c7/item.json)
+ - **Longitude (decimal)** | [Details](src/field/2c6061d1-eb07-4f29-858b-21e4439b237b) | [Settings](src/field/2c6061d1-eb07-4f29-858b-21e4439b237b/item.json)
+ - **Name** | [Details](src/field/ea8871b6-4f71-480b-bbd7-0d71322c6464) | [Settings](src/field/ea8871b6-4f71-480b-bbd7-0d71322c6464/item.json)
+ - **Short Description** | [Details](src/field/c9896d41-82cf-42da-873f-2b7c59e22b81) | [Settings](src/field/c9896d41-82cf-42da-873f-2b7c59e22b81/item.json)
 
 ### All used in [Joomla Component Builder](https://www.joomlacomponentbuilder.com) - [Source](https://git.vdm.dev/joomla/Component-Builder) - [Mirror](https://github.com/vdm-io/Joomla-Component-Builder) - [Download](https://git.vdm.dev/joomla/pkg-component-builder/releases)
 
