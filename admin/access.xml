@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<access component="com_jcbtest">
+	<section name="component">
+		<action name="core.admin" title="JACTION_ADMIN" description="JACTION_ADMIN_COMPONENT_DESC" />
+		<action name="core.options" title="JACTION_OPTIONS" description="JACTION_OPTIONS_COMPONENT_DESC" />
+		<action name="core.manage" title="JACTION_MANAGE" description="JACTION_MANAGE_COMPONENT_DESC" />
+		<action name="core.export" title="COM_JCBTEST_EXPORT_DATA" description="COM_JCBTEST_EXPORT_DATA_DESC" />
+		<action name="core.import" title="COM_JCBTEST_IMPORT_DATA" description="COM_JCBTEST_IMPORT_DATA_DESC" />
+		<action name="core.batch" title="COM_JCBTEST_USE_BATCH" description="COM_JCBTEST_USE_BATCH_DESC" />
+		<action name="core.version" title="COM_JCBTEST_EDIT_VERSIONS" description="COM_JCBTEST_EDIT_VERSIONS_DESC" />
+		<action name="core.create" title="JACTION_CREATE" description="JACTION_CREATE_COMPONENT_DESC" />
+		<action name="core.delete" title="JACTION_DELETE" description="JACTION_DELETE_COMPONENT_DESC" />
+		<action name="core.edit" title="JACTION_EDIT" description="JACTION_EDIT_COMPONENT_DESC" />
+		<action name="core.edit.state" title="JACTION_EDITSTATE" description="JACTION_ACCESS_EDITSTATE_DESC" />
+		<action name="core.edit.own" title="JACTION_EDITOWN" description="JACTION_EDITOWN_COMPONENT_DESC" />
+		<action name="core.edit.created_by" title="COM_JCBTEST_EDIT_CREATED_BY" description="COM_JCBTEST_EDIT_CREATED_BY_DESC" />
+		<action name="core.edit.created" title="COM_JCBTEST_EDIT_CREATED_DATE" description="COM_JCBTEST_EDIT_CREATED_DATE_DESC" />
+		<action name="test.access" title="COM_JCBTEST_TESTS_ACCESS" description="COM_JCBTEST_TESTS_ACCESS_DESC" />
+		<action name="test.access.group" title="COM_JCBTEST_TESTS_ACCESS_GROUP" description="COM_JCBTEST_TESTS_ACCESS_GROUP_DESC" />
+		<action name="test.batch" title="COM_JCBTEST_TESTS_BATCH_USE" description="COM_JCBTEST_TESTS_BATCH_USE_DESC" />
+		<action name="test.dashboard_add" title="COM_JCBTEST_TESTS_DASHBOARD_ADD" description="COM_JCBTEST_TESTS_DASHBOARD_ADD_DESC" />
+		<action name="test.dashboard_list" title="COM_JCBTEST_TESTS_DASHBOARD_LIST" description="COM_JCBTEST_TESTS_DASHBOARD_LIST_DESC" />
+		<action name="test.edit.group" title="COM_JCBTEST_TESTS_EDIT_GROUP" description="COM_JCBTEST_TESTS_EDIT_GROUP_DESC" />
+		<action name="test.version" title="COM_JCBTEST_TESTS_EDIT_VERSION" description="COM_JCBTEST_TESTS_EDIT_VERSION_DESC" />
+		<action name="test.export" title="COM_JCBTEST_TESTS_EXPORT" description="COM_JCBTEST_TESTS_EXPORT_DESC" />
+		<action name="test.import" title="COM_JCBTEST_TESTS_IMPORT" description="COM_JCBTEST_TESTS_IMPORT_DESC" />
+		<action name="test.submenu" title="COM_JCBTEST_TESTS_SUBMENU" description="COM_JCBTEST_TESTS_SUBMENU_DESC" />
+		<action name="test.view.group" title="COM_JCBTEST_TESTS_VIEW_GROUP" description="COM_JCBTEST_TESTS_VIEW_GROUP_DESC" />
+	</section>
+	<section name="test">
+		<action name="test.edit.group" title="COM_JCBTEST_TESTS_EDIT_GROUP" description="COM_JCBTEST_TESTS_EDIT_GROUP_DESC" />
+		<action name="test.access.group" title="COM_JCBTEST_TESTS_ACCESS_GROUP" description="COM_JCBTEST_TESTS_ACCESS_GROUP_DESC" />
+		<action name="test.view.group" title="COM_JCBTEST_TESTS_VIEW_GROUP" description="COM_JCBTEST_TESTS_VIEW_GROUP_DESC" />
+		<action name="test.version" title="COM_JCBTEST_TESTS_EDIT_VERSION" description="COM_JCBTEST_TESTS_EDIT_VERSION_DESC" />
+	</section>
+</access>
