@@ -1,0 +1,96 @@
+{
+    "admin_view": "eafd26f7-b13c-4c36-b8a3-ae7d71febb24",
+    "addfields": {
+        "0": {
+            "field": "ea8871b6-4f71-480b-bbd7-0d71322c6464",
+            "list": "1",
+            "order_list": "1",
+            "filter": "1",
+            "link": "1",
+            "tab": "1",
+            "alignment": 1,
+            "order_edit": "0",
+            "permission": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "1": {
+            "field": "c9896d41-82cf-42da-873f-2b7c59e22b81",
+            "list": "1",
+            "order_list": "2",
+            "filter": "",
+            "tab": "1",
+            "alignment": 1,
+            "order_edit": "0",
+            "permission": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "2": {
+            "field": "b83771c3-ffd1-4827-a41d-a633873517c7",
+            "list": "3",
+            "order_list": "3",
+            "title": "1",
+            "filter": "",
+            "tab": "2",
+            "alignment": 1,
+            "order_edit": "0",
+            "permission": [
+                "3"
+            ]
+        },
+        "3": {
+            "field": "2c6061d1-eb07-4f29-858b-21e4439b237b",
+            "list": "3",
+            "order_list": "4",
+            "filter": "",
+            "tab": "2",
+            "alignment": 1,
+            "order_edit": "0",
+            "permission": [
+                "3"
+            ]
+        }
+    },
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "eafd26f7-b13c-4c36-b8a3-ae7d71febb24",
+            "entity": "admin_view",
+            "table": "#__componentbuilder_admin_view",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "ea8871b6-4f71-480b-bbd7-0d71322c6464",
+            "entity": "field",
+            "table": "#__componentbuilder_field",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "c9896d41-82cf-42da-873f-2b7c59e22b81",
+            "entity": "field",
+            "table": "#__componentbuilder_field",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "b83771c3-ffd1-4827-a41d-a633873517c7",
+            "entity": "field",
+            "table": "#__componentbuilder_field",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "2c6061d1-eb07-4f29-858b-21e4439b237b",
+            "entity": "field",
+            "table": "#__componentbuilder_field",
+            "direction": "out"
+        }
+    ]
+}
