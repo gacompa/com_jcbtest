@@ -1,0 +1,13 @@
+{
+    "joomla_component": "2f178bc9-ea50-466d-8463-fcad5ca93908",
+    "addsite_views": null,
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "2f178bc9-ea50-466d-8463-fcad5ca93908",
+            "entity": "joomla_component",
+            "table": "#__componentbuilder_joomla_component",
+            "direction": "out"
+        }
+    ]
+}
