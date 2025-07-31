@@ -58,6 +58,7 @@ This makes them ideal for distributed teams, client-specific forks, and open-sou
 ### Index of Joomla Components
 
 
+ - **Bookings** | [Details](src/joomla_component/2f178bc9-ea50-466d-8463-fcad5ca93908) | [Settings](src/joomla_component/2f178bc9-ea50-466d-8463-fcad5ca93908/item.json) | Management of bookings for hikes or routes
  - **jcbtest** | [Details](src/joomla_component/726a11af-27ff-4836-b81f-cd72752df10f) | [Settings](src/joomla_component/726a11af-27ff-4836-b81f-cd72752df10f/item.json) | test
 
 ### All used in [Joomla Component Builder](https://www.joomlacomponentbuilder.com) - [Source](https://git.vdm.dev/joomla/Component-Builder) - [Mirror](https://github.com/vdm-io/Joomla-Component-Builder) - [Download](https://git.vdm.dev/joomla/pkg-component-builder/releases)
